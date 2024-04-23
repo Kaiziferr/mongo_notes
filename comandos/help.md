@@ -1,0 +1,3 @@
+- db.help()
+- db.getName()
+- db.getUser()
